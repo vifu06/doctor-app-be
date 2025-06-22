@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "vifu06",
+        "projectKey": "vifu06_doctor-app-be"
+    }
+}
